@@ -1,5 +1,8 @@
 # sanity-nuxt
 
+### Live
+https://bc-sanity-nuxt.netlify.app/
+
 ## Build Setup
 
 ```bash
